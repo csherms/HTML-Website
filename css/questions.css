@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #c9eef2;
+}
+
+ol {
+  background-color: aliceblue;
+  padding: 3rem;
+  margin: 1rem;
+  box-shadow: 5px 5px 5px slategray;
+  border-radius: 10px;
+}
