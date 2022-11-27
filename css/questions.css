@@ -1,6 +1,7 @@
 #questions-main {
   display: flex;
   align-items: flex-start;
+  justify-content: flex-start;
   width: 90vw;
   background-color: #c9eef2;
   padding: 4rem;
