@@ -10,9 +10,11 @@ body {
   background-color: #f0f2f2;
 }
 
-h1 {
-  margin: 10px;
+header {
   text-align: center;
+  border-bottom: 5px double #b0afae;
+  padding: 1.5rem;
+  background-color: #d3d3d3;
 }
 
 h2 {
@@ -69,4 +71,6 @@ footer a {
 
 footer {
   padding: 1rem;
+  background-color: #d3d3d3;
+  border-top: 5px double #b0afae;
 }

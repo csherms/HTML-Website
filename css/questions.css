@@ -1,14 +1,32 @@
-main {
+#questions-main {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 90vw;
   background-color: #c9eef2;
+  padding: 4rem;
+}
+
+h3 {
+  background-color: #401e01;
+  color: #eee;
+  padding: 20px;
+  box-shadow: 5px 5px 5px slategrey;
+  margin-bottom: 2rem;
+  border-radius: 10px;
 }
 
 ol {
+  flex: 1;
   background-color: aliceblue;
   padding: 3rem;
   margin: 1rem;
   box-shadow: 5px 5px 5px slategray;
   border-radius: 10px;
 }
+
+ul {
+  margin-bottom: 2rem;
+}
+
+/* #css-list ul {
+  margin-bottom: 2rem;
+} */
